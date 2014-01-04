@@ -29,8 +29,8 @@ MATLAB code for Adding Samples by Learned Attributes
  
  Files:
     demo.m              : demo script
- 	addByGnE.m          : main function of one iteration of Eq.(1)
- 	precisionRecall.m   : compute precision and recall curve from PASCAL evaluation code package
+    addByGnE.m          : main function of one iteration of Eq.(1)
+    precisionRecall.m   : compute precision and recall curve from PASCAL evaluation code package
     ./dbc               : http://www.umiacs.umd.edu/~mrastega/paper/dbc.zip
     train.mexw64        : LibLinear binary compiled for 64 bit Windows
     vl_homkermap.mexw64 : homogeneous kernel mapping in VL_FEAT compiled for 64 Windows
